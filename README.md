@@ -21,15 +21,15 @@ Start the Laravel application.
 ## Features
 Login and logout functionality <br>
 CRUD operations for user profiles <br>
-Flash messages
-Views
-MySQL
-MVC architecture
+Flash messages<br>
+Views <br>
+MySQL <br>
+MVC architecture <br>
 
 ## Requirements
-PHP 7.4+
-Laravel 8+
-MySQL 5.7+
+PHP 7.4+ <br>
+Laravel 8+ <br>
+MySQL 5.7+ <br>
 ## About Laravel
 
 Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel takes the pain out of development by easing common tasks used in many web projects, such as:
