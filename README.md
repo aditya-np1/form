@@ -27,7 +27,7 @@ Laravel 8+ <br>
 MySQL 5.7+ <br>
 
 #### OutPut
-the project's one module demo photo can be seen
+the project's one module demo photo can be seen <a href="https://github.com/aditya-np1/form/blob/master/view-forms_laravel.png"> Here </a>
 ## About Laravel
 
 Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel takes the pain out of development by easing common tasks used in many web projects, such as:
