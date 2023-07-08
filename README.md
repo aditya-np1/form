@@ -6,7 +6,8 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/v/laravel/framework" alt="Latest Stable Version"></a>
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
 </p>
-## Aboute Project
+
+## About Project
 This project is an initial attempt to learn Laravel. It focuses on login and uses Laravel concepts such as views, flash, and leverages MVC architecture. It also demonstrates CRUD operations in the Laravel framework.
 
 ## Getting Started
@@ -17,7 +18,7 @@ Create a MySQL database and configure the Laravel application.
 Run the migrations and seeds.
 Start the Laravel application.
 
-##Features
+## Features
 Login and logout functionality
 CRUD operations for user profiles
 Flash messages
