@@ -6,13 +6,13 @@
 This project is an initial attempt to learn Laravel. It focuses on login and uses Laravel concepts such as views, flash, and leverages MVC architecture. It also demonstrates CRUD operations in the Laravel framework.
 
 ## Getting Started
-Clone the repository from GitHub.
-Install the dependencies using Composer.
-Use WAMP or XAMPP server for local development
-Create a MySQL database and configure the Laravel application.
-Run the migrations and seeds.
-Start the Laravel application.
-connect with PHPmyadmin with your crediitioals on <a href="https://github.com/aditya-np1/form/blob/master/.env.example">.env file</a> 
+Clone the repository from GitHub. <br>
+Install the dependencies using Composer. <br>
+Use WAMP or XAMPP server for local development <br>
+Create a MySQL database and configure the Laravel application. <br>
+Run the migrations and seeds. <br>
+Start the Laravel application. <br>
+connect with PHPmyadmin with your crediitioals on <a href="https://github.com/aditya-np1/form/blob/master/.env.example">.env file</a>  <br>
 ## Features
 Login and logout functionality <br>
 CRUD operations for user profiles <br>
