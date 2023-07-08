@@ -1,0 +1,20 @@
+#viewtable {
+    text-align: center;
+    background-color: chartreuse;
+    border-radius: 10px;
+    border-radius: 10px;
+    margin-left: 350px;
+    margin-right: 250px;
+    margin-top: 100px;
+    /* margin-bottom: 200px; */
+}
+
+td {
+    background-color: goldenrod;
+    color: darkviolet;
+}
+
+a {
+    background-color: white;
+    border: solid black 2px;
+}

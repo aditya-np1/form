@@ -1,0 +1,33 @@
+                /* #first_name,
+#middle_name,
+#last_name {
+    text-align: justify;
+} */
+                
+                #root {
+                    text-align: center;
+                    background-color: antiquewhite;
+                    border: solid black 2px;
+                }
+                /* .name {
+    text-align: center;
+} */
+                
+                #error {
+                    color: red;
+                    font-size: small;
+                    text-align: center;
+                }
+                
+                #super {
+                    color: rgb(214, 52, 52);
+                }
+                
+                body {
+                    text-align: center;
+                }
+                
+                #flsh {
+                    background-color: rgb(134, 169, 134);
+                    color: rgb(6, 6, 51);
+                }
