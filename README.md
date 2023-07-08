@@ -6,7 +6,29 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/v/laravel/framework" alt="Latest Stable Version"></a>
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
 </p>
+## Aboute Project
+This project is an initial attempt to learn Laravel. It focuses on login and uses Laravel concepts such as views, flash, and leverages MVC architecture. It also demonstrates CRUD operations in the Laravel framework.
 
+## Getting Started
+Clone the repository from GitHub.
+Install the dependencies using Composer.
+Use WAMP or XAMPP server for local development
+Create a MySQL database and configure the Laravel application.
+Run the migrations and seeds.
+Start the Laravel application.
+
+##Features
+Login and logout functionality
+CRUD operations for user profiles
+Flash messages
+Views
+MySQL
+MVC architecture
+
+## Requirements
+PHP 7.4+
+Laravel 8+
+MySQL 5.7+
 ## About Laravel
 
 Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel takes the pain out of development by easing common tasks used in many web projects, such as:
