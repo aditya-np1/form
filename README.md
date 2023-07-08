@@ -12,7 +12,7 @@ Use WAMP or XAMPP server for local development
 Create a MySQL database and configure the Laravel application.
 Run the migrations and seeds.
 Start the Laravel application.
-
+connect with PHPmyadmin with your crediitioals on <a href="https://github.com/aditya-np1/form/blob/master/.env.example">.env file</a> 
 ## Features
 Login and logout functionality <br>
 CRUD operations for user profiles <br>
