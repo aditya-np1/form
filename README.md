@@ -19,8 +19,8 @@ Run the migrations and seeds.
 Start the Laravel application.
 
 ## Features
-Login and logout functionality
-CRUD operations for user profiles
+Login and logout functionality <br>
+CRUD operations for user profiles <br>
 Flash messages
 Views
 MySQL
